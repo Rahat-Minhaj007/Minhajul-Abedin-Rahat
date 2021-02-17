@@ -70,29 +70,31 @@ h2 {
 
 .educard:hover {
     background-color: whitesmoke;
-    
 }
-.contacts{
+
+.contacts {
     display: grid;
-    grid-template-columns: repeat(2,50px);
+    grid-template-columns: repeat(2, 50px);
     padding: 5px;
     margin-left: 5px;
 }
-@media (max-width:760px){
+
+@media (max-width:760px) {
     .homes {
         border: 1px solid black;
         width: 340px;
-        margin-left:30px;
+        margin-left: 30px;
     }
     .aboutpic img {
         width: 335px;
         height: 500px;
     }
-
 }
-#head{
+
+#head {
     font-size: 60px;
 }
-.icon{
+
+.icon {
     color: rgb(173, 173, 173);
 }
