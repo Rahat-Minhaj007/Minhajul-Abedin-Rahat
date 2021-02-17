@@ -1,0 +1,73 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.w3-row-padding img {
+    margin-bottom: 12px;
+}
+
+.w3-sidebar {
+    width: 120px;
+    background: rgb(44, 44, 44);
+}
+
+.aboutpic {
+    text-align: center;
+}
+
+.aboutpic img {
+    width: 800px;
+    height: 800px;
+}
+
+#self {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(156, 156, 156);
+    text-decoration-style: solid;
+    text-underline-offset: 10px;
+}
+
+h2 {
+    text-decoration-line: underline;
+    text-decoration-color: gray;
+    text-decoration-style: solid;
+    text-underline-offset: 10px;
+}
+
+.bars {
+    background-color: rgb(156, 156, 156);
+}
+
+#para {
+    text-align: justify;
+}
+
+.btndownload {
+    background-color: rgb(156, 156, 156);
+    width: 200px;
+}
+
+.cardhover {
+    background-color: rgb(199, 199, 199);
+}
+
+.cardhover:hover {
+    background-color: whitesmoke;
+}
+
+.homes {
+    border: 1px solid black;
+    width: 820px;
+    margin-left: 270px;
+}
+
+.educard {
+    height: 200px;
+    background-color: rgb(199, 199, 199);
+}
+
+.educard:hover {
+    background-color: whitesmoke;
+}
