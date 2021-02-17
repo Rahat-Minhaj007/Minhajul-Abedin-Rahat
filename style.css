@@ -80,12 +80,12 @@ h2 {
 }
 @media (max-width:760px){
     .homes {
-        border: 1px solid gray;
+        /* border: 1px solid gray; */
         width: 340px;
-        margin-left:0px;
+        margin-left:40px;
     }
     .aboutpic img {
-        width: 340px;
+        width: 335px;
         height: 800px;
     }
 
