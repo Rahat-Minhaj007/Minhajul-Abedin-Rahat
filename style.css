@@ -86,7 +86,13 @@ h2 {
     }
     .aboutpic img {
         width: 335px;
-        height: 800px;
+        height: 500px;
     }
 
+}
+#head{
+    font-size: 60px;
+}
+.icon{
+    color: rgb(173, 173, 173);
 }
