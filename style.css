@@ -91,6 +91,24 @@ h2 {
     }
 }
 
+@media (max-width:1024px) {
+    .homes {
+        border: 1px solid black;
+        width: 700px;
+        margin-left: 75px;
+        
+    }
+    .aboutpic img {
+        width: 550px;
+        height: 730px;
+    }
+    .btndownload {
+        background-color: rgb(156, 156, 156);
+        width: 150px;
+    }
+}
+
+
 #head {
     font-size: 60px;
 }
