@@ -58,7 +58,7 @@ h2 {
 }
 
 .homes {
-    border: 1px solid black;
+    border: 1px solid gray;
     width: 820px;
     margin-left: 270px;
 }
@@ -70,4 +70,23 @@ h2 {
 
 .educard:hover {
     background-color: whitesmoke;
+    
+}
+.contacts{
+    display: grid;
+    grid-template-columns: repeat(2,50px);
+    padding: 5px;
+    margin-left: 5px;
+}
+@media (max-width:760px){
+    .homes {
+        border: 1px solid gray;
+        width: 340px;
+        margin-left:0px;
+    }
+    .aboutpic img {
+        width: 340px;
+        height: 800px;
+    }
+
 }
